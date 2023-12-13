@@ -1,0 +1,57 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Baked Hash Browns",
+    "url": "",
+    "image": [ "https:\/\/www.browneyedbaker.com\/wp-content\/uploads\/2018\/03\/hashbrown-casserole-12-754.jpg" ],
+    "author": {
+        "@type": "Person",
+        "name": "Julie Engh"         
+    },
+    "description": "Baked Hash Browns",
+    "recipeCuisine": "American",
+    "keywords": "potatoes, baked, jules",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Preheat oven to 300 degrees."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Combine the rest of ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Spray 9x13 pan (disposable aluminum works well), then spread ingredients evenly."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Sprinkle with paprika and parsley flakes."
+        }        ,
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Bake for about 2 hours (increase to 3 hours for a double batch)."
+        }
+    ],
+    "recipeIngredient": [
+       "<val>1</val> 2lb package of frozen hash browns (not the shredded kind)",
+        "<val>1</val> can cream of mushroom soup",
+        "<val>1</val> can cream of chicken soup",        
+        "<val>1</val> 16 oz sour cream",
+        "Dehydrated onion to taste",
+        "Salt and Pepper to taste",
+        "Optional:  8 oz of cheddar cheese"
+    ],
+    "cookTime": "PT02H00M",
+    "prepTime": "PT00H15M",
+    "totalTime": "PT2H15M"
+}
