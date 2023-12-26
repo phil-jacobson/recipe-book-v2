@@ -1,0 +1,55 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Veggie Pizza",
+    "url": "",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/veggie-pizza" ],
+    "author": {
+        "@type": "Person",
+        "name": "Julie Engh"         
+    },
+    "description": "Veggie Pizza",
+    "recipeCuisine": "American",
+    "keywords": "vegetables, pizza, jules",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Lay crescents in a pan and pinch seems together (9x13 pan or 11x17 cookie sheet)."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Bake per package instructions and let cool."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Mix together and spread on crust: cream cheese, mayo, dill, and garlic salt."
+        },    
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Spread veggies over pizza, and sprinkle with shredded crust"
+        }
+    ],
+    "recipeIngredient": [        
+        "<val>2</val> packages Pillsbury crescent rolls (can use garlic flavored)",
+        "<val>16</val> oz cream cheese",
+        "<val>3/4</val> cup mayonaise or Miricle Whip",
+        "<val>1</val> tsp dill weed",
+        "<val>1/2</val> tsp garlic salt",       
+        "shredded cheese",
+        "<h2>Veggies (cut in small pieces)</h2>",
+        "Cauliflower", 
+        "Green Pepper",
+        "Broccoli",
+        "Carrots",
+        "Radishes"        
+    ],    
+    "totalTime": "PT0H40M"
+}

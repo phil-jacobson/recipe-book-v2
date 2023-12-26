@@ -1,0 +1,62 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Rustic Italian Tortellini Soup",
+    "url": "https:\/\/www.tasteofhome.com\/recipes\/rustic-italian-tortellini-soup\/",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/tortellini-soup" ],
+    "author": {
+        "@type": "Person",
+        "name": "Tracy Fasnacht"         
+    },
+    "description": "It's quick to fix on a busy night and full of healthy, tasty ingredients. It originally called for spicy sausage links, but turkey sausage, or even ground turkey breast, is just as good. ",
+    "recipeCuisine": "Italian",
+    "keywords": "dinner, lunch, soup",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Crumble sausage into a dutch oven; add onion. Cook and stir over medium heat until meat is no longer pink."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Add garlic; cook 1 minute longer."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Stir in the broth, water and tomatoes. Bring to a boil."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Add tortellini; return to a boil.  Cook for 5-8 minutes or until almost tender, stirring occasionally."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Reduce heat; add the spinach, basil, pepper and pepper flakes. Cook 2-3 minutes longer or until spinach is wilted and tortellini are tender. Serve with cheese if desired."
+        }
+    ],
+    "recipeIngredient": [
+        "<val>3\/4</val> pound Italian turkey sausage links, casings removed",
+        "<val>1</val> medium onion, chopped",
+        "<val>6</val> garlic cloves, minced",
+        "<val>2</val> cans (14.5 ounces each) reduced-sodium chicken broth",
+        "<val>1 3\/4</val> cups water",
+        "<val>1</val> can (14-1\/2 ounces) diced tomatoes, undrained",
+        "<val>1</val> package (9 ounces) refrigerated cheese tortellini",
+        "<val>1</val> package (6 ounces) fresh baby spinach, coarsely chopped",
+        "<val>2 1\/4</val> teaspoons minced fresh basil or <val>3\/4</val> teaspoon dried basil",
+        "<val>1\/4</val> teaspoon pepper",
+        "Dash crushed red pepper flakes",
+        "Shredded Parmesan cheese, optional"
+    ],
+    "cookTime": "PT20M",
+    "prepTime": "PT20M",
+    "totalTime": "PT40M"
+}

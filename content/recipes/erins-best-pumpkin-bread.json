@@ -1,0 +1,120 @@
+{
+    "@context": "http://schema.org",
+    "@type": [
+        "Recipe"
+    ],
+    "url" : "https://www.simplyrecipes.com/recipes/pumpkin_bread/",
+    "headline": "Erin's Best Pumpkin Bread",
+    "datePublished": "2014-10-02T11:39:20.000Z",
+    "dateModified": "2021-02-08T16:26:28.999Z",
+    "description": "Pumpkin bread tastes so quintessentially of the fall, with cinnamon, nutmeg, allspice, and molasses. Plus an optional orange glaze! Use canned or homemade pumpkin purée.",
+    "image": [  "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/pumpkin-bread" ]
+    ,
+    "name": "Erin's Best Pumpkin Bread",
+    "author": {
+        "@type": "Person",
+        "name": "Elise Bauer"         
+    },
+    "cookTime": "PT45M",
+    "keywords": "Baking, Pumpkin, Quick Bread, Spice Bread, American, Dessert, Snack, Favorite Fall, Halloween, Thanksgiving",
+        "prepTime": "PT15M",
+    "recipeCategory": [
+        "Dessert",
+        "Snack",
+        "Baking",
+        "Pumpkin",
+        "Quick Bread",
+        "Spice Bread"
+    ],
+    "recipeCuisine": [
+        "American"
+    ],
+    "recipeIngredient": [
+        "<h2>For the pumpkin bread:</h2>",
+        "<val>1 1/2</val> cups (<val>200</val> g) flour",
+        "<val>1/2</val> teaspoon salt",
+        "<val>1</val> teaspoon baking soda",
+        "<val>1</val> teaspoon ground ginger",
+        "<val>1/2</val> teaspoon cinnamon",
+        "<val>1/2</val> teaspoon nutmeg",
+        "<val>1/2</val> teaspoon allspice",
+        "<val>1</val> cup (<val>240</val> ml) pumpkin purée, store-bought or homemade",
+        "<val>1</val> cup (<val>200</val> g) sugar",
+        "<val>1/2</val> cup (<val>112</val> g) unsalted butter, melted",
+        "<val>2</val> large eggs, beaten",
+        "<val>1/4</val> cup water",
+        "<val>2</val> teaspoons molasses",
+        "<val>1</val> teaspoon orange zest (optional)",
+        "<val>1/2</val> cup (<val>65</val> g) chopped pecans or walnuts (optional)",
+        "<h2>For the orange glaze (optional):</h2>",
+        "<val>1</val> cup powdered sugar",
+        "<val>2</val> tablespoons orange juice",
+        "<val>1</val> teaspoon orange zest"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Make the homemade pumpkin puree (optional): To make your own pumpkin purée, cut a small sugar pumpkin in half horizontally. Use a large metal spoon to scrape out the seeds and stringy stuff. Place the pumpkin halves cut side down on a foil-lined baking sheet. Bake at 350°F until soft, about 45 minutes to an hour. Cool, scoop out the flesh. Measure out 1 cup of puree for this recipes and freeze whatever you don't use for future use. Or, if you are working with pumpkin pieces, roast, boil, or steam them until tender, then remove and discard the skin."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven and prepare loaf pan: Preheat your oven to 350°F (180°C). Put in the middle rack of the oven. Butter the insides of a 4x8-inch loaf pan."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/Y_JwnRy6gfNY1rqRRhREduAkrDY=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__10__pumpkin-bread-method-1-cc5efa2b99054a15962d27c16375e53e.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Whisk the dry ingredients: Whisk together the flour, salt, baking soda, ground ginger, cinnamon, nutmeg, and allspice in a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/ddXEByKWMKQNPyZOZHHPZerqPL4=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__10__pumpkin-bread-method-2-5c39095defc34cef8dd8f52f091d1130.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Combine the wet ingredients: Mix together pumpkin purée, sugar, the melted butter, beaten eggs, 1/4 cup of water, molasses, and orange zest (if using) in a separate bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/-zdxJTLxX0EuXWBul8cx7lVYAYY=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__10__pumpkin-bread-method-3-b45722ff384b448f8a12ee2854fb8a73.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Make the batter: Add the dry ingredients to the wet ingredients and stir until just combined and there is no more dry flour in the batter. Do not overmix! If adding chopped pecans or walnuts, stir them in."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/FNUUXcDyORbNkwZYzDTuA84-Bd0=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__10__pumpkin-bread-method-4-aa27cb03da2547eca384df1858792a06.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Bake: Pour the batter into the loaf pan and smooth the top. Bake at 350°F (180°C) for 45 to 60 minutes (depending on your oven and the color of your loaf pan—dark pans cook the contents more quickly than light pans), or until a tester poked in the center of the loaf comes out clean."
+        },
+        {
+            "@type": "HowToStep",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.simplyrecipes.com/thmb/shrDSuoOtkPDIUuwVsja6UiclA8=/1200x800/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__10__pumpkin-bread-method-5-bc74af009a15409cb511f1ca32ca6fe0.jpg",
+                "height": 800,
+                "width": 1200
+            },
+            "text": "Remove from pan and cool completely: Remove from oven and let cool in the pan for 5 minutes. Then run a blunt dinner knife around the edges of the pumpkin bread to gently separate it from the pan. Invert it to loosen it from the pan and put the loaf on a rack to cool completely."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Glaze: If using the glaze, whisk together in a medium bowl the powdered sugar, orange juice, zest, and vanilla until smooth. If too thick, add a little more juice. If too thin, add a little more powdered sugar. Wait until the pumpkin bread has cooled completely before drizzling with glaze or slicing. Tip: use a serrated knife to slice. Fewer crumbs that way!"
+        }
+    ],
+    "recipeYield": "10",
+    "totalTime": "PT60M" 
+}

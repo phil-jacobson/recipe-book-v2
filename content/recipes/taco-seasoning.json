@@ -1,0 +1,45 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "name": "Taco Seasoning",
+    "description": "This homemade taco seasoning recipe can be made in minutes. And it\u2019s also preservative-free, gluten-free and easily customizable. So much better than storebought taco seasoning mix!",
+    "image": [
+        "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/taco-seasoning"
+    ],
+    "url": "https://www.gimmesomeoven.com/homemade-taco-seasoning-recipe-taco-seasoning-mix/",
+    "recipeIngredient": [
+        "<val>1</val> tablespoon chili powder",
+        "<val>1</val> teaspoon ground cumin",
+        "<val>1</val> teaspoon garlic powder",
+        "<val>1</val> teaspoon paprika\u00a0(I prefer smoked paprika)",
+        "<val>1/2</val> teaspoon dried oregano",
+        "<val>1/2</val> teaspoon onion powder",
+        "<val>1/4</val> teaspoon fine sea salt",
+        "<val>1/4</val> teaspoon black pepper",
+        "<val>1/4</val> teaspoon crushed red pepper flakes"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine ingredients.\u00a0Add all of the ingredients to a small jar and stir (or shake) until evenly combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Store.\u00a0 Use immediately or cover and store for up to 1 year."
+        }
+    ],
+    "prepTime": "PT2M",
+    "totalTime": "PT2M",
+    "recipeYield": "About 3 tablespoons",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "reviewCount": "68",
+        "ratingValue": "4.9"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Ali"
+    },
+    "datePublished": "2020-05-03",
+    "keywords" : "taco,seasoning"
+}

@@ -1,0 +1,1 @@
+export const useTabComponentSelectedIndex = () => useState("tabComponentSelectedIndex", () => { return {} });

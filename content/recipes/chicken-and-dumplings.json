@@ -1,0 +1,131 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Chicken and Dumplings",
+    "url": "https:\/\/www.simplyrecipes.com\/recipes\/chicken_and_dumplings\/",
+    "image": ["https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/chicken-and-dumplings"],
+    "author": {
+        "@type": "Person",
+        "name": "Elise Bauer",
+        "url": "https:\/\/www.simplyrecipes.com\/author\/elise-bauer\/"
+    },
+    "description": "Chicken and dumplings is comfort food at its best! Start with a hearty chicken and vegetable stew, then add easy homemade dumplings that cook up light and fluffy.",
+    "datePublished": "2020-10-13",
+    "dateModified": "2020-10-13",
+    "recipeCuisine": "American",
+    "keywords": "Favorite Fall, Favorite Winter, Comfort Food, Chicken, Dumplings",
+    "recipeCategory": [
+        "Dinner",
+        "Soup",
+        "Stew"
+    ],
+    "video": {
+        "thumbnailUrl": [
+            "https:\/\/www.simplyrecipes.com\/wp-content\/uploads\/2019\/02\/Chicken-Pot-Pie-LEAD-2.jpg",
+            "https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/5344802155001\/b56bdc15-e1c2-43f9-b879-1e1481ca7c2e\/fe4a13c3-0c6c-4a35-af61-a9518d7be94d\/1280x720\/match\/image.jpg",
+            "https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/5344802155001\/b56bdc15-e1c2-43f9-b879-1e1481ca7c2e\/916beb34-4bda-46ed-aa85-54c12cb3eed9\/160x90\/match\/image.jpg"
+        ],
+        "image": "https:\/\/insanelygoodrecipes.com\/wp-content\/uploads\/2021\/03\/Homemade-Chicken-and-Dumplings-in-a-Bowl.png",
+        "@context": "http:\/\/schema.org",
+        "@type": "VideoObject",
+        "name": "Chicken and Dumplings",
+        "description": "How to make Chicken and Dumplings",
+        "embedUrl": "https:\/\/players.brightcove.net\/5344802155001\/Hk7kDfj9e_default\/index.html?videoId=6199915452001",
+        "contentUrl": "https:\/\/www.simplyrecipes.com\/video_src?vid=6199915452001",
+        "duration": "PT1M35S",
+        "uploadDate": "2020-10-13T14:05:00-07:00",
+        "publisher": {
+            "@context": "http:\/\/schema.org",
+            "@type": "Organization",
+            "url": "https:\/\/www.simplyrecipes.com",
+            "name": "Simply Recipes",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/www.simplyrecipes.com\/wp-content\/themes\/simply\/assets\/i\/simplyrecipes-logo-default.jpg"
+            },
+            "sameAs": [
+                "https:\/\/www.facebook.com\/simplyrecipes",
+                "https:\/\/twitter.com\/simplyrecipes",
+                "https:\/\/plus.google.com\/+simplyrecipes\/posts",
+                "https:\/\/pinterest.com\/simplyrecipes\/",
+                "https:\/\/instagram.com\/simplyrecipes\/"
+            ]
+        }
+    },
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Heat the chicken stock to a gentle simmer in a medium pot."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Brown the chicken: In a large (8-quart or larger) thick-bottomed pot, heat the butter or olive oil over medium-high heat. Pat dry the chicken pieces and sprinkle with salt.\nWorking in batches, brown the chicken pieces, placing the pieces skin-side down first; this will render out fat you will use to build the stew later."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Poach the chicken in the stock:&nbsp;Once the chicken pieces are browned on all sides, remove them from the large pot, and turn off the heat. Remove and discard the skin from the chicken pieces and put the chicken pieces into the pot of simmering stock.\nPoach the chicken in the stock until cooked through, about 20 minutes or so.\nRemove the chicken pieces and set on a tray to cool for a few minutes. When the chicken pieces are cool to touch, pull the meat off the bones and cut into 2-inch chunks. Set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Cook the vegetables until softened: Return the heat on the large pot to medium-high. When the pot is hot, add the onion, celery, carrot and thyme and sauté until soft, but not browned, about 4 to 5 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Add the flour and stir well. The flour will absorb the fat in the pot and will stick a little to the bottom. Reduce the heat to medium-low and stir the flour vegetable mixture constantly for 2 to 3 minutes. Do not let it burn."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 6,
+            "text": "Add sherry, slowly add stock:&nbsp;Get a ladle ready and have the pot of simmering chicken stock nearby. Add the sherry to the flour vegetable mixture. It will sputter and seize up.\nAdd a ladle of hot chicken stock and stir well. It will be goopy. Add another ladle, then another, stirring all the while, until the broth comes together.\nAdd the rest of the chicken stock and the reserved chicken meat. Increase the heat and bring to a simmer, then reduce the heat to maintain a gentle simmer while you make the dumplings."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 7,
+            "text": "Make the dumpling batter: Whisk together flour, baking powder, and salt in a medium bowl. Add (optional) chopped fresh herbs. Add melted butter and milk to the dry ingredients.\nGently mix with a wooden spoon until mixture just comes together. (Note: do not over-mix or your dumplings will turn out too dense.)"
+        },
+        {
+            "@type": "HowToStep",
+            "position": 8,
+            "text": "Add dumplings to the stew: Drop dumpling batter into the simmering stew by heaping teaspoonfuls, over the surface of the stew. (Note that the dumplings will easily double in size as they cook.) Cover and simmer until dumplings are cooked through, about 15 minutes.\nOnce you have covered the pan, do not uncover and peek while the dumplings are cooking! In order for the dumplings to be light and fluffy, they must steam, not boil. Uncovering the pan releases the steam.\nIf after 15 minutes the dumplings are still not cooked through (use a toothpick or skewer to test), then cover pan again and cook for another 5 to 10 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 9,
+            "text": "Finish the stew: Gently stir in peas, parsley, and cream, if using. Add more salt to taste. Ladle portions of meat, sauce, vegetables, and dumplings into soup plates and serve. Note that the stew will continue to thicken the longer it sits."
+        }
+    ],
+    "recipeIngredient": [
+        "<h2>For the chicken and vegetables</h2>",
+        "<val>3</val> to <val>3 1\/2</val> pounds chicken thighs and breasts, skin-on, bone-in, trimmed of excess fat",
+        "<val>2</val> teaspoons butter or extra virgin olive oil, or a combination of both",
+        "Salt",
+        "<val>1</val> quart chicken stock, homemade or store-bought",
+        "<val>2</val> to <val>3</val> celery stalks, trimmed and cut into 1\/2-inch pieces (about 2 cups)",
+        "<val>3</val> medium carrots, peeled and cut into 1\/2-inch pieces (about 2 cups)",
+        "<val>1</val> large onion, roughly chopped (about 2 cups)",
+        "<val>1\/3</val> cup all-purpose flour",
+        "<val>1</val> teaspoon dried thyme",
+        "<val>1\/4</val> cup dry sherry or vermouth (optional)",
+        "<val>1</val> tablespoon heavy cream (optional)",
+        "<val>3\/4</val> cup frozen peas, thawed",
+        "<val>1\/4</val> cup minced fresh parsley leaves",
+        "Ground black or white pepper",
+        "<h2>For the dumplings</h2>",
+        "<val>2</val> cups (250 g) cake flour (can sub all-purpose flour, but use cake flour if you have it, your dumplings will be fluffier)",
+        "<val>2</val> teaspoons baking powder",
+        "<val>3\/4</val> teaspoon salt",
+        "<val>2</val> tablespoons butter, melted",
+        "<val>3\/4</val> cup milk",
+        "<val>1\/4</val> cup minced fresh herb leaves such as parsley, chives, and tarragon (optional)"
+    ],
+    "cookTime": "PT00H45M",
+    "prepTime": "PT00H15M",
+    "totalTime": "PT1H",
+    "recipeYield": "Serves 6 to 8"    
+}

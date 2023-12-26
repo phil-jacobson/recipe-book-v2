@@ -1,0 +1,128 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "12 Minute Thai Chicken Peanut Noodles",
+    "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/",
+    "author": {
+        "@type": "Person",
+        "name": "Nagi"
+    },
+    "description": "Recipe video above. Thai Chicken Peanut Noodles is what you make when you&#039;ve got less than 15 minutes to get dinner on the table and you need a Thai fix! Using chicken mince means no meat prep - and you can switch it out with literally any ground meat (beef, turkey, pork). It might not be authentic Thai ... but it&#039;s fast and 100% delicious!",
+    "datePublished": "2021-01-20T15:00:00+00:00",
+    "image": [
+        "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/peanut-chicken-noodles"        
+    ],
+    "recipeYield": "Serves 2",
+    "prepTime": "PT3M",
+    "cookTime": "PT9M",
+    "recipeIngredient": [
+        "<val>1</val> tbsp oil",
+        "<val>1</val>  garlic clove (minced)",
+        "<val>7</val>oz (200g) chicken mince (ground chicken)",
+        "<val>1</val> tsp curry powder",
+        "<val>1 1/2</val> tbsp red curry paste (separated)",
+        "<val>1</val> tsp dark soy sauce",
+        "<val>1 1/2</val>cups chicken stock/broth (low sodium)",
+        "<val>3/4</val> cup coconut milk (~1/2 a can, full fat for best flavour)",
+        "<val>2</val> tbsp cider vinegar",
+        "<val>3</val> tbsp peanut butter",
+        "<val>2</val>  instant ramen or noodle cakes (~70-100g/2.5-3.5oz per cake; any brand, discard seasoning pack)",
+        "<val>2</val> (big!) handfuls baby spinach",
+        "<val>2</val> tbsp peanuts (finely chopped)",
+        "Roughly chopped fresh coriander/cilantro leaves",
+        "Sriracha or other chilli paste (optional)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in a skillet over high heat. Add garlic and cook for 20 seconds until it turns golden.",
+            "name": "Heat oil in a skillet over high heat. Add garlic and cook for 20 seconds until it turns golden.",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add chicken mince and cook for 2 minutes, breaking it up as you go, until it mostly changes from pink to white.",
+            "name": "Add chicken mince and cook for 2 minutes, breaking it up as you go, until it mostly changes from pink to white.",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-1"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add 1 tbsp red curry paste, curry powder and soy sauce. Cook for 1 minute.",
+            "name": "Add 1 tbsp red curry paste, curry powder and soy sauce. Cook for 1 minute.",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-2"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Clear a space in the middle of the pan, add remaining 1/2 tbsp curry paste, stir the curry paste for 30 seconds.",
+            "name": "Clear a space in the middle of the pan, add remaining 1/2 tbsp curry paste, stir the curry paste for 30 seconds.",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-3"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add chicken stock, bring to a simmer then reduce to medium-high. Simmer for 1 minute.",
+            "name": "Add chicken stock, bring to a simmer then reduce to medium-high. Simmer for 1 minute.",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-4"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Squish the noodle cakes in, pushing chicken aside so the noodles are as submerged as possible.",
+            "name": "Squish the noodle cakes in, pushing chicken aside so the noodles are as submerged as possible.",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-5"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Leave to cook for 45 seconds, then flip noodles. Leave for another 30 seconds, then separate the noodles with 2 wooden spoons.",
+            "name": "Leave to cook for 45 seconds, then flip noodles. Leave for another 30 seconds, then separate the noodles with 2 wooden spoons.",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-6"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Push noodles aside, add coconut milk, peanut butter and vinegar, then give it a quick mix to mostly dissolve the peanut butter.",
+            "name": "Push noodles aside, add coconut milk, peanut butter and vinegar, then give it a quick mix to mostly dissolve the peanut butter.",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-7"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add spinach, toss with the noodles for 30 seconds until wilted. Make sure it&#039;s still pretty saucy - everybody loves sauce!",
+            "name": "Add spinach, toss with the noodles for 30 seconds until wilted. Make sure it&#039;s still pretty saucy - everybody loves sauce!",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-8"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer to serving bowls, sprinkle with coriander, peanuts and Sriracha or chilli paste if desired.",
+            "name": "Transfer to serving bowls, sprinkle with coriander, peanuts and Sriracha or chilli paste if desired.",
+            "url": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#wprm-recipe-56738-step-0-9"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.94",
+        "ratingCount": "31"
+    },
+    "recipeCategory": [
+        "Mains"
+    ],
+    "recipeCuisine": [
+        "Asian",
+        "Thai-ish"
+    ],
+    "keywords": "chicken mince recipe, Peanut noodles, ramen recipe",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "581 kcal",
+        "carbohydrateContent": "14 g",
+        "proteinContent": "31 g",
+        "fatContent": "48 g",
+        "saturatedFatContent": "22 g",
+        "cholesterolContent": "86 mg",
+        "sodiumContent": "950 mg",
+        "fiberContent": "3 g",
+        "sugarContent": "4 g",
+        "servingSize": "1 serving"
+    },
+    "@id": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#recipe",
+    "isPartOf": {
+        "@id": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#article"
+    },
+    "mainEntityOfPage": "https://www.recipetineats.com/thai-chicken-peanut-noodles-mince/#webpage"
+}

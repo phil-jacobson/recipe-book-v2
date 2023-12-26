@@ -1,0 +1,70 @@
+{
+    "@context": "http://schema.org",
+    "@type": [
+        "Recipe"
+    ],
+    "url" : "https://www.recipetineats.com/spicy-firecracker-beef/",
+    "headline": "Firecracker Beef",
+    "datePublished": "2014-10-02T11:39:20.000Z",
+    "dateModified": "2021-02-08T16:26:28.999Z",
+    "description": "This is a thrifty yet excellent dinner for all those times you need to scratch your Spicy Asian Food itch, fast! Seared beef mince gets tossed through a fiery Firecracker Sauce, tastes a bit like a spicy beef version of the much-loved Vietnamese Caramelised Pork Mince. Sweetness &amp; spice level - Fairly spicy! See notes to reduce. Firecracker sauce is supposed to be a bit sweet to offset spice, also see notes.",
+    "image": [  "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/firecracker-beef" ]
+    ,
+    "name": "Firecracker Beef",
+    "author": {
+        "@type": "Person",
+        "name": "Nagir"         
+    },
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "keywords": "Asian, Spicy, Beef, Easy, RecipeTin, Nagi",   
+    "recipeCategory": [
+        "Asian",
+        "Dinner"
+    ],
+    "recipeCuisine": [
+        "Asian"
+    ],
+    "recipeIngredient": [        
+        "<h2>Beef</h2>",    
+        "<val>1 1/2</val> tbsp oil (vegetable, canola, peanut)",
+        "<val>500</val>g or <val>1</val> lb ground beef",
+        "<val>2</val>  garlic cloves (finely minced)",
+        "<val>1</val> tsp chilli flakes / red pepper flakes (adjust to your taste)",
+        "<val>3</val> tbsp water",
+        "<h2>Firecracker Sauce</h2>",
+        "<val>2</val> tbsp soy sauce (light or all-purpose)",
+        "<val>2</val> tbsp rice vinegar",
+        "<val>4</val> tbsp sriracha sauce",
+        "<val>4</val> tbsp brown sugar (tightly packed)",
+        "<h2>To Serve (optional):</h2>",
+        "Rice (soba or vermicelli noodles)",
+        "1  green onion (finely sliced)",
+        "1 tsp sesame seeds",
+        "Diced cucumber, julienned carrot, finely sliced red radish",
+        "Extra sriracha sauce (if you dare!)"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Sauce: Mix Firecracker sauce ingredients in a small bowl and set aside."       
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cook beef: Heat oil in a large frypan over high heat. Add beef and cook, breaking it up as you go, until you can no longer see raw meat (2½ minutes). Add garlic and chilli flakes and cook for 1 minute."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Caramelise beef: Add Firecracker sauce ingredients, stir to coat the beef. Cook for 5 to 7 minutes, stirring only every minute or so initially, then more towards the end, until the sauce reduces and you can see the beef caramelising. Caramelise well for good flavour!"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Water: Add the water and cook for 1 minute (the water makes the beef saucier!)"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve over rice, sprinkled with sesame seeds, green onion and a squirt of extra sriracha if you&#39;re feeling brave! Add a pile of vegetables of choice on the side. Dive in!"        }
+    ],
+    "recipeYield": "1 dish",
+    "totalTime": "P15M" 
+}

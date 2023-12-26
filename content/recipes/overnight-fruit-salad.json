@@ -1,0 +1,63 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Overnight Fruit Salad",
+    "url": "",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/fruit-salad" ],
+    "author": {
+        "@type": "Person",
+        "name": "Julie Engh"         
+    },
+    "description": "Overnight Fruit Salad",
+    "recipeCuisine": "American",
+    "keywords": "fruit, salad, jules",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Mix sauce ingredients, and heat in a double boiler until thick.  Let cool and then chill in the refrigerator."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Drain the fruit and combine in a large bowl."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "After the sauce is chilled, whip the cream, add it to the top of the fruit along with the sauce and marshmellows"
+        },    
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Carefully fold all of the ingredients together."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Important: leave the mixure in the refrigerator overnight."
+        }
+    ],
+    "recipeIngredient": [
+        "<h2>Sauce</h2>",
+        "<val>1/2</val> cup sugar ",
+        "<val>1/4</val> cup flour ",
+        "<val>1/2</val> cup pineapple juice",
+        "<val>1/4</val> cup lemon juice ",
+        "<val>3</val> eggs",
+        "dash of salt",
+        "<h2>Salad</h2>",
+        "<val>1</val> small carton of heavy whipping cream (whipped)",
+        "<val>1</val> can pineapple tidbits",
+        "<val>1</val> large can of fruit cocktail",        
+        "<val>1</val> can of sliced peaches",
+        "<val>1</val> can of mandarin oranges",
+        "<val>2</val> large jars of cherries",
+        "<val>1</val> package of colored/fruit-flavored miniature marshmellows"        
+    ],    
+    "totalTime": "PT2H00M"
+}

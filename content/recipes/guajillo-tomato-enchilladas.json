@@ -1,0 +1,82 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Guajillo-Tomato Enchiladas With Braised Greens (Or Roast Chicken) And Melted Cheese",
+    "url": "https:\/\/www.rickbayless.com\/recipe\/guajillo-tomato-enchiladas-with-braised-greens-or-roast-chicken-and-melted-cheese\/",
+    "image": ["https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/red-enchilladas"],
+    "author": {
+        "@type": "Person",
+        "name": "Rick Bayless"        
+    },
+    "description": "The sauce on these enchiladas has a lot in common with the one a lot of Americans think of as “enchilada sauce,” the stuff you can buy in cans at many grocery stores. The flavors are livelier, though, and when paired with braised greens and caramelized onions wrapped in corn tortillas, the impression is anything but ordinary. Chicken instead of greens is a more predictable filling, but the dish is no less dreamy.",
+    "datePublished": "2016-07-01",
+    "dateModified": "2016-07-01",
+    "recipeCuisine": "Mexican",
+    "keywords": "Mexican, Enchilladas, Tomatillo",
+    "recipeCategory": [
+        "Dinner"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "<b>Make the sauce.</b> In an ungreased skillet set over medium heat, toast the chiles:  With a metal spatula, press a few pieces at a time against the hot surface for a few seconds until they change color slightly and release their aroma.  Flip and press the other side.  Scoop into a blender jar.  Place the garlic in a microwave-safe dish, cover with water and microwave at 100% for 1 minute.  Drain and add to the blender along with the tomatoes, black pepper, cumin and oregano.  Blend as smooth as possible."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Heat a large (4-quart) saucepan over medium high.  When hot, film the bottom with 2 tablespoons of the oil and when the oil is hot enough to shimmer, set a medium-mesh strainer over the pot and press the puree through.  It should sizzle when it hits the oil. Stir nearly continually as the mixture reduces and concentrates to the consistency of tomato paste, about 7 minutes.  Stir in the broth, bring to a boil, partially cover and simmer for about 20 minutes for the flavors to come together."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "<b>Make the filling.</b>  Set a very large (12-inch) skillet over medium-high heat and, when hot, add the remaining 2 tablespoons of the oil.  Scoop in the sliced onion and cook, stirring regularly until richly brown, about 8 minutes.  If using kale, pile it into the skillet, add ½ cup water, cover (use a cookie sheet if your skillet doesn’t have a lid) and cook, stirring from time to time, until the kale is tender and the liquid has mostly evaporated, 4 or 5 minutes.  Turn off the heat, taste and season with salt, usually a generous 1/2 teaspoon.  If using chicken, scoop it into the skillet with the onions and stir over medium heat until warm.  Taste and season with salt."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "<b>Finish the dish.</b> Heat the oven to 425 degrees. Lightly brush or spray both sides of each tortilla with oil, slide into a plastic bag (don’t seal) and microwave at 100% for 1 minute.  Remove and let stand for a minute.  Remove the tortillas from the bag and one by one, lay on a portion of filling and roll up.  As they are rolled, transfer the filled tortillas to a 13x9-inch baking dish, lining them up seam-side down.  If the sauce has reduced beyond the consistency of a light tomato sauce, stir in a little water.  Taste and season with salt, usually a scant teaspoon, depending on the saltiness of your broth.  Ladle the sauce over the filled tortillas, making sure to cover them completely.  Scatter on the cheese and slide into the oven."
+        },      
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "<b>Serve.</b>  When the cheese has melted and just begun to brown (usually 5 to 7 minutes), remove the enchiladas, scatter on a few slices of onion if you have them and you’re ready for dinner."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 6,
+            "text": "<b>A note on greens:</b>  In Mexico, lambs quarters (quelites), amaranth greens (quintoniles) and Swiss chard (among others) are commonly used as fillings for tacos and other antojitos.  The tougher greens (like lamb quarters, large amaranth, beet or turnip greens) often profit from a quick blanch in salted water before mixing into the browned onions.  "
+        },
+        {
+            "@type": "HowToStep",
+            "position": 7,
+            "text": "<b>Variations:</b> the sky’s the limit when it comes to fillings:  Savory Shredded Beef, Shredded Pork Picadillo, scrambled eggs with chunks of leftover steak or other beef (a favorite of our restaurant’s brunch menu), roasted vegetables, you name it.  I also like to blend a couple of canned chipotle chiles en adobo into the sauce to give it a little more spice and smokiness. Other dried chiles like cascabel and pasilla can be good here, too, though those chiles are better balanced with roasted tomatillos rather than tomatoes in my opinion."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 8,
+            "text": "<b>For the professional:</b>  Because the proportion of dried chiles in this sauce is small, you can get away without rehydrating them before blending.  Blending, however, takes a little longer.  If using fresh roasted tomatoes, roast and peel 1 ½ pounds to yield what you’d have in the can.     Roasted garlic can replace the microwave-blanched garlic."
+        }
+    ],
+    "recipeIngredient": [
+        "<val>6</val> dried guajillo chiles, stemmed, seeded and torn into flat pieces",
+        "<val>6</val> garlic cloves",
+        "<val>1</val> 15 ounce can fire-roasted tomatoes, undrained (or <val>1.5</val> pounds of fresh tomatoes)",
+        "<val>1\/2</val> tsp fresh-ground black pepper",
+        "<val>1\/2</val> tsp fresh-ground cumin",
+        "<val>1</val>teaspoon Mexican oregano",
+        "<vaL>4</val> tbsp vegetable or olive oil (divided use), plus extra to spray or brush on the tortillas",
+        "<val>2</val> cups vegetable or chicken broth",
+        "<val>1</val> large (8-ounce) white or red onion, sliced ¼ inch thick, plus a few slices for garnish",
+        "<val>1</val> bunch (about 8 ounces) lacinato kale (AKA black or dinosaur kale), thick lower stems cut off, leaves cut crosswise in ½ inch slices (you’ll need about 6 cups gently packed slices) OR 2 heaping cups (about 8 ounces) boneless roast chicken meat (like from a rotisserie chicken)",
+        "Salt",
+        "<val>12</val> corn tortillas",
+        "<val>1 1\/2</val> cups shredded Mexican melting cheese (Chihuahua, quesillo, asadero and the like) or Monterey Jack, brick or mild cheddar"                
+
+    ],
+    "cookTime": "PT0030M",
+    "prepTime": "PT00H30M",
+    "totalTime": "PT1H0M",
+    "recipeYield": "Makes 12 enchiladas"
+}

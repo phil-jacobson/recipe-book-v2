@@ -1,0 +1,116 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Homemade Chicken Noodle Soup",
+    "url": "https:\/\/www.simplyrecipes.com\/recipes\/chicken_noodle_soup\/",
+    "image": ["https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/chicken-noodle-soup"],
+    "author": {
+        "@type": "Person",
+        "name": "Elise Bauer",
+        "url": "https:\/\/www.simplyrecipes.com\/author\/elise-bauer\/"
+    },
+    "description": "The BEST homemade chicken noodle soup! This version is made from scratch, so it's light and nourishing. All the goodness from the chicken in one pot of soup. Just what you need to recover from a cold or the flu.",
+    "datePublished": "2020-12-06",
+    "dateModified": "2020-12-06",
+    "recipeCuisine": "American",
+    "keywords": "Favorite Fall, Favorite Winter, Comfort Food, Healthy, Chicken, Chicken Soup, Egg Noodles",
+    "recipeCategory": [
+        "Soup"
+    ],
+    "video": {
+        "thumbnailUrl": [
+            "https:\/\/www.simplyrecipes.com\/wp-content\/uploads\/2019\/01\/Chicken-Noodle-Soup-LEAD-2-1.jpg",
+            "https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/5344802155001\/04bd1806-0fac-4425-960f-a7a1239d88d8\/ac451f40-91e3-4ef1-bca6-c437e4662754\/1280x720\/match\/image.jpg",
+            "https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/5344802155001\/04bd1806-0fac-4425-960f-a7a1239d88d8\/9e7a9576-d28c-4e2b-bc36-8a7a4165aded\/160x90\/match\/image.jpg"
+        ],
+        "image": "https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/5344802155001\/04bd1806-0fac-4425-960f-a7a1239d88d8\/ac451f40-91e3-4ef1-bca6-c437e4662754\/1280x720\/match\/image.jpg",
+        "@context": "http:\/\/schema.org",
+        "@type": "VideoObject",
+        "name": "Homemade Chicken Noodle Soup",
+        "description": "How to make Homemade Chicken Noodle Soup",
+        "embedUrl": "https:\/\/players.brightcove.net\/5344802155001\/Hk7kDfj9e_default\/index.html?videoId=6004786681001",
+        "contentUrl": "https:\/\/www.simplyrecipes.com\/video_src?vid=6004786681001",
+        "duration": "PT2M37S",
+        "uploadDate": "2020-12-06T16:48:03-08:00",
+        "publisher": {
+            "@context": "http:\/\/schema.org",
+            "@type": "Organization",
+            "url": "https:\/\/www.simplyrecipes.com",
+            "name": "Simply Recipes",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/www.simplyrecipes.com\/wp-content\/themes\/simply\/assets\/i\/simplyrecipes-logo-default.jpg"
+            },
+            "sameAs": [
+                "https:\/\/www.facebook.com\/simplyrecipes",
+                "https:\/\/twitter.com\/simplyrecipes",
+                "https:\/\/plus.google.com\/+simplyrecipes\/posts",
+                "https:\/\/pinterest.com\/simplyrecipes\/",
+                "https:\/\/instagram.com\/simplyrecipes\/"
+            ]
+        }
+    },
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Separate the meat from bones:&nbsp;Remove the breast meat from the breast bones, and the thigh meat from the thigh bone, place in a bowl, cover and chill in the refrigerator until needed towards the end of preparing the soup.\nRemove and discard the largest pieces of breast and thigh skin. Cut away and discard excess fat from chicken pieces."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Parboil bones for 3 minutes: Place breast and thigh bones, the back, legs, neck, and wings in a large (8 quart) pot. Cover with water. Bring to a full rolling boil. Boil for 3 minutes. After 3 minutes, remove from heat, drain off the water, rinse the bones and the pot."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Make the stock: Return the now parboiled bones to the clean pot. Add the carrots and celery ribs, and some celery tops if you have them, to the pot with the chicken. (Fennel tops or leek greens can be added too, if you have them.)\nAdd the quartered onion, garlic cloves, thyme, one-half of the parsley, and the peppercorns to the pot.\nCover with an inch or two of water (about 3 quarts). &nbsp;Bring to a low simmer (about 185°F) and let simmer (the stock should be just barely bubbling), partially covered, for 1 1\/2 hours."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Strain bones and solids from the stock: At the end of 1 1\/2 hours strain out the bones and vegetables, reserving the stock. Rinse out the pot and return the stock to the pot.\nIf you want, set aside and strip the bones of any remaining meat. After parboiling and 1 1\/2 hours of cooking the meat will be rather dry and tasteless, though you could use it in a chicken salad. \n \n&nbsp;5 Salt the stock:&nbsp;Taste the stock. It should be rather bland because up to now, no salt has been added. Add salt to taste. As a guideline, for each&nbsp;quart of stock, add&nbsp;2&nbsp;teaspoons of salt."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Add the sliced carrots and celery to the stock, bring to a simmer."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 6,
+            "text": "Add the reserved raw chicken to the stock: Cut the chicken breast and thigh meat into bite-sized pieces. Add to the pot with the carrots, celery, and stock. Return to a low simmer."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 7,
+            "text": "Add noodles: Add the egg noodles and return to a simmer. Simmer for until the egg noodles are just barely cooked through, al dente (about 5 minutes or so, depending on your package of noodles), and the chicken is just cooked through.\nNote that the noodles will expand substantially in the soup broth as they cook."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 8,
+            "text": "Finish and serve: Stir in a handful of chopped fresh parsley.&nbsp;Add freshly ground black pepper, more thyme, and more salt to taste."
+        }
+    ],
+    "recipeIngredient": [
+        "One 3 1\/2-pound chicken, cut into parts—breast, thighs, backs, wings, and neck (if available)",
+        "<val>2</val> carrots, scrubbed clean, unpeeled, and cut into 2 inch chunks",
+        "<val>2</val>  celery ribs, cut into 2 inch pieces (include celery tops)",
+        "<val>1</val>  onion, quartered (peel on is okay)",
+        "<val>3</val>  cloves garlic, cut in half (peal on is ok)",
+        "<val>2</val>  to <val>3 sprigs fresh time (or 1 teaspoon dried)",
+        "<val>1\/2</val>  bunch parsley",
+        "<val>5</val>  whole peppercorns",
+        "<val>3</val>  carrots, peeled and cut into 1\/4-inch rounds",
+        "<val>3</val>  ribs cut into 1\/4-inch thick slices",
+        "<val>4</val> to <val>8</val>  ounces egg noodles (depending on how noodle-y you want your soup)",
+        "Fresh chopped parsley, to finish",
+        "Freshly ground black pepper, to finish",
+        "Fresh thyme, to finish"
+    ],
+    "cookTime": "PT02H00M",
+    "prepTime": "PT00H15M",
+    "totalTime": "PT2H15M",
+    "recipeYield": "Makes about 3 quarts of soup"
+}

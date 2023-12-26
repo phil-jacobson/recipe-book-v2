@@ -1,0 +1,49 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "mainEntityOfPage": "https://food52.com/recipes/77653-marcella-hazan-s-tomato-sauce-with-sauteed-vegetables-and-olive-oil",
+    "name": "Tomato Sauce with Sautéed Vegetables and Olive Oil",
+    "image": [
+        "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/tomato-sauce"
+    ],
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Italian",
+    "author": {
+        "@type": "Person",
+        "name": "Sarah Whitman-Salkin",
+        "url": "https://food52.com/users/1164366-sarah-whitman-salkin"
+    },
+    "datePublished": "2018-08-17 09:48:23 -0400",
+    "description": "<p>This recipe is featured in the story, A Love Letter to Marcella Hazan's *Other* Tomato Sauces.</p><p>A companion to Marcella Hazan's famous Tomato Sauce with Onion and Butter, this sauce is richer and jammier than its celebrity friend, with more complex, layered flavors and only a tiny bit more effort required. I like to dice the onion, carrot, and celery quite fine (it gives you a smoother sauce) but if you prefer a more rustic version feel free to chop them roughly.</p><p>This sauce can be used for so many things—to make tomato rice, to serve over shrimp with feta and olives, to flavor a soup, the list is really endless—but it&#39;s perfect over pasta. Marcella recommends 1 to 1 1/2 pounds of pasta for the amount of sauce this recipe makes.</p><p>Marcella says: This is a denser, darker sauce than Tomato Sauce with Onion and Butter or Tomato Sauce with Olive Oil and Chopped Vegetables, cooked longer over a base of sautéed vegetables. Most factory-made pasta will carry this sauce well, in particular substantial shapes such as rigatoni, ridged penne, or bucatini.</p><p>Recipe adapted ever so slightly from Essentials of Classic Italian Cooking by Marcella Hazan.</p>",
+    "recipeYield": "Serves 6",
+    "prepTime": "PT0H15M",
+    "cookTime": "PT0H45M",
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "If using fresh tomatoes: put the prepared tomatoes in an uncovered saucepan and cook at a very low simmer for about 1 hour. Stir from time to time, mashing any pieces of tomato against the sides of the pan with the back of a wooden spoon to break them down. Transfer to a bowl with all their juices. If using canned tomatoes, wipe the saucepan dry with paper towels and proceed with Step 2, then add the tomatoes where indicated in Step 3."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Put in the olive oil and chopped onion in a saucepan over medium heat. Cook onion, stirring often, until it becomes pale gold, then add the carrot and celery. Give everything a few stirs to make sure that the vegetables are well coated in oil and cook at lively heat for another minute."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add the tomatoes, a large pinch of salt, stir thoroughly, and adjust heat to cook uncovered at a gentle, steady simmer. If using fresh tomatoes, cook for 15 to 20 minutes; if using the canned tomatoes, simmer for 45 minutes. Stir from time to time, occasionally mashing the tomatoes with a wooden spoon to break them down. Before turning off the heat, taste and add more salt if you'd like."
+        }
+    ],
+    "recipeIngredient": [
+        "<val>1</val> 28oz can of Cento San Marzano Whole Peeled Tomatoes OR <val>2</val> pounds fresh, ripe tomatoes, prepared as described below, or 2 cups Italian plum tomatoes, cut up or whole, with their juice ",
+        "<val>1/3</val> cup extra virgin olive oil",
+        "<val>1/3</val> cup chopped onion",
+        "<val>1/3</val> cup chopped carrot",
+        "<val>1/3</val> cup chopped celery",
+        "Salt"
+    ],
+    "commentCount": 1,
+    "aggregateRating": {
+        "ratingCount": "1",
+        "ratingValue": "5.0"
+    },
+    "keywords": "Carrot, Celery, Onion, Tomato, Olive Oil, Pasta"
+}

@@ -1,0 +1,81 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Creamy Vegan Wild Rice Soup",
+    "url": "https:\/\/lifeisnoyoke.com\/wild-rice-soup/",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/wild-rice-soup" ],
+    "author": {
+        "@type": "Person",
+        "name": "Shalva Gale"         
+    },
+    "description": "Creamy Vegan Wild Rice Soup",
+    "recipeCuisine": "American",
+    "keywords": "vegan, soup",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Prep: Soak cashews overnight if possible. If not, soak in boiling water as soon as you see this, the longer the better."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Prep: Rinse and drain the wild rice."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Prep: Chop celery, carrots, onion, and garlic."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Prep: Chop mushrooms, reserve on the side."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Reserve 1 cup (8 oz) of broth on the side.  Heat the rest of the vegetable broth in a large pot on medium heat."
+        }        ,
+        {
+            "@type": "HowToStep",
+            "position": 6,
+            "text": "Add wild rice, thyme, bay leaves, salt, celery, carrots, onion, and garlic.  Simmer for 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 7,
+            "text": "Prepare the cream. Add drained cashews and cannellini bean to blender along wtih reserved broth.  Blend 1 minute or until smooth."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 8,
+            "text": "Add mushrooms and cream.  Simmer for about 15 minutes more. "
+        },      {
+            "@type": "HowToStep",
+            "position": 9,
+            "text": "Remove bay leaves and serve. "
+        }
+    ],
+    "recipeIngredient": [
+        "<val>1</val> cup raw/unsalted cashews (125g)",
+        "<val>4</val> ribs celery, chopped",
+        "<val>1</val> cup carrots, chopped (128g)",
+        "<val>8</val> oz mushrooms, chopped (225g)",
+        "<val>1\/2</val> onion chopped",        
+        "<val>4</val>-<val>6</val> cloves garlic, minced",
+        "<val>64</val> ounces vegatable (or chicken) broth, devided ",        
+        "<val>1</val> can (15oz) cannellini beans",        
+        "<val>1</val> cup wild rice (160g)",
+        "<val>1</val> tbsp dried thyme (or to taste)",
+        "<val>2</val> bay leaves",
+        "<val>2</val> tsp salt, adjust to taste, influcence by saltiness of broth"      
+    ],
+    "cookTime": "PT00H60M",
+    "prepTime": "PT00H30M",
+    "totalTime": "PT0H90M"
+}

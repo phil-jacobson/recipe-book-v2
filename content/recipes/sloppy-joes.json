@@ -1,0 +1,48 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Sloppy Joes",
+    "url": "",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/sloppy-joes" ],
+    "author": {
+        "@type": "Person",
+        "name": "Julie Engh"         
+    },
+    "description": "Enghy Family Sloppy Joes",
+    "recipeCuisine": "American",
+    "keywords": "Ground beef, dinner, jules",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Brown ground beef in large pot or frying pan."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Combine the rest of ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Simmer on low for 30 mins, or transfer to crockpot."
+        }
+    ],
+    "recipeIngredient": [
+        "<val>1</val> lb ground beef",
+        "<val>1</val> Tbsp lemon juice",
+        "<val>4</val> teaspoon vinegar",        
+        "<val>1 1\/3</val> cup catsup",
+        "<val>2</val> tsp mustard",
+        "<val>2</val> Tbsp brown sugar",
+        "<val>2</val> Tbsp deydrated onion",
+        "<val>1</val> tsp salt",
+        "<val>1\/4</val> tsp pepper"
+    ],
+    "totalTime": "PT0H30M",
+    "recipeYield": "6 servings"    
+}

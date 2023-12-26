@@ -1,0 +1,65 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Smoked Meatloaf",
+    "url": "https://heygrillhey.com/jackd-up-smoked-meatloaf/",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/smoked-meat-loaf" ],
+    "author": {
+        "@type": "Person",
+        "name": "Hey Grill Hey"         
+    },
+    "description": "",
+    "recipeCuisine": "American",
+    "keywords": "beef",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [      
+        {
+         "@type": "HowToStep",
+          "position": 1,
+          "text":"Preheat your smoker to 225 degrees F for indirect smoking. This meatloaf is awesome with hickory or oak wood."
+          },
+          {
+            "@type": "HowToStep",
+            "position": 2,
+            "text":"In a large mixing bowl, combine the ground beef, bread crumbs, red onion, garlic, eggs, Worcestershire sauce, Jack Daniels, and milk. Mix gently with your hands until just combined. Don't overwork the meat or your meatloaf will be tough and chewy, just gently mix."
+          },
+         {
+             "@type": "HowToStep", 
+             "position": 3,
+             "text":"Spread half of your meatloaf mixture on the bottom of a grill basket. Layer on the pepper jack cheese, leaving about an inch of meatloaf on all sides. Top with the remaining meatloaf mixture and press the edges together to seal completely. Any exposed holes and the cheese will leak out while cooking."
+         },
+         {
+             "@type": "HowToStep",
+             "position": 4,
+             "text":"In a small bowl. combine the ingredients for the sauce and then pour over the top of the meatloaf, letting it run down the sides a little bit."
+         },
+         {
+            "@type":"HowToStep",
+            "position": 5,
+            "text":"Place the meatloaf on the smoker, close the lid, and smoke for 4 hours or until the internal temperature reads 165 degrees F. Let the meatloaf rest for a few minutes before slicing and serving."
+         }            
+    ],
+    "recipeIngredient":[
+                        "<val>2</val> pounds ground beef",
+                        "<val>1/2</val> cup panko bread crumbs",
+                        "<val>1/2</val> medium red onion (grated)",
+                        "<val>2</val> cloves garlic (minced)",
+                        "<val>2</val> eggs (lightly beaten)",
+                        "<val>1</val> Tablespoon Worcestershire sauce",
+                        "<val>2</val> Tablespoons Jack Daniels whiskey",
+                        "<val>1</val> Tablespooon homemade steak rub (recipe linked in post) (or your favorite steak rub)",
+                        "<val>1/4</val> cup milk",
+                        "<val>6</val> ounces pepper jack cheese (cut into strips)",
+                        "<h2>The sauce</h2>",
+                        "<val>1/2</val> cup ketchup","1/3 cup brown sugar",
+                        "<val>1/4</val> cup Jack Daniels whiskey",
+                        "<val>1</val> Tablespoon homemade steak rub",
+                        "<val>2</val> teaspoons crushed red pepper flakes"],    
+    "cookTime": "PT04H00M",
+    "prepTime": "PT00H15M",
+    "totalTime": "PT004H15M",
+    "recipeYield": "1 loaf, 6 people"    
+}

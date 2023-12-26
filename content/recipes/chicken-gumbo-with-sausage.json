@@ -1,0 +1,159 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Chicken Gumbo with Andouille Sausage",
+    "url": "https:\/\/www.simplyrecipes.com\/recipes\/chicken_gumbo_with_andouille_sausage\/",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/chicken-gumbo" ],
+    "author": {
+        "@type": "Person",
+        "name": "Hank Shaw",
+        "url": "http:\/\/honest-food.net"
+    },
+    "description": "A classic spicy chicken and andouille sausage gumbo with okra.",
+    "recipeCuisine": "Cajun, Creole, New Orleans",
+    "keywords": "Mardi Gras, Comfort Food, Chicken, Chicken Thigh, Okra, Sausage",
+    "recipeCategory": [
+        "Dinner",
+        "Stew"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Cook the bacon:&nbsp;Cook the diced bacon until crispy in a large stew pot set over medium heat. Remove the bacon and set aside; you'll add it back in when you serve your gumbo."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Brown the chicken in the bacon fat:&nbsp;Once the bacon is cooked, set the chicken thighs skin side down in the bacon fat to crisp. Salt the meat side, which will be facing up in the pot.\nCook the chicken, without moving, for at least 4-5 minutes before trying to turn the chicken over.\n\nBrown the other side of the chicken thighs. Incidentally, you start with skin side down to render some fat, which you will need for the roux."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Brown the sausages: Remove the browned chicken thighs and set aside. Brown the sausages in the fat, remove and set aside."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Make the roux: If you want, measure how much fat is in the pot; it should be about 1\/2 cup. Or, do what I do and add 1\/2 cup peanut oil to the pot. Let this heat up a minute or two, then stir in 1 cup flour. Stir this almost constantly for the first few minutes, then every couple minutes or so thereafter.\nLower&nbsp;the heat to medium-low and cook this roux until it turns dark. How dark? I like my roux the color of coffee with just a tiny bit of cream.\n \nYou can go all the way to chocolate brown, but be careful! If you burn your roux you will need to start over and make it again. This whole process can take 30 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Heat chicken stock: While you are stirring and cooking the roux, bring the chicken stock and water to a boil in a separate pot."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 6,
+            "text": "Add onion, bell pepper, celery to roux, add garlic, then tomato paste: Add to the roux the onion, green pepper and celery and mix well. Let this cook, stirring often, for about 5 minutes.\nAdd the garlic, stir again and cook for another 2 minutes. Mix in the tomato paste."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 7,
+            "text": "Ladle&nbsp;hot stock into the gumbo, stir in some spice: Using a large ladle, add the hot chicken stock to the gumbo. It will sizzle and seize up as the roux absorbs the liquid.\nKeep adding more stock, stirring all the time and scraping the bottom of the pot, to incorporate all the stock and all the roux.\n \nYou might not need all 2 quarts, but add enough to make the gumbo slightly more watery than you want it to be at the end—remember you are going to cook this down for several hours.\nStir in half the Cajun spice mix, taste the gumbo, and add more if you want."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 8,
+            "text": "Lower the heat, add the chicken, simmer:&nbsp;Lower the heat to medium-low and add back the chicken thighs. Now you can either eat the skin while it's still crispy, or toss it into the gumbo and chop it fine later. I tend to do half-and-half.\nSimmer this gently, stirring from time to time, until the meat wants to fall off the bones of the chicken, about 90 minutes. Remove the chicken and let it cool a bit."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 9,
+            "text": "Add sausage, okra, chicken meat:&nbsp;While the chicken is cooling, cut the andouille sausage into thick discs and drop them in the gumbo.\nAdd the okra.\nPick the chicken meat from the bones and chop it roughly. Add it back to the gumbo.\nAt this point you can cook the gumbo for another hour, or up to several more hours, depending on how cooked down you want the final stew to be."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 10,
+            "text": "Add green onions, parsley, bacon to serve: When you are ready to eat, add the green onions, parsley and bacon and stir well. Serve over rice, or with good French bread."
+        }
+    ],
+    "recipeIngredient": [
+        "<val>1\/3</val> pound bacon, diced",
+        "<val>2</val>-<val>3</val> pounds chicken thighs, skin on",
+        "Salt",
+        "<val>1</val>-<val>2</val> pounds andouille sausage",
+        "<val>1\/2</val> cup peanut or other vegetable oil",
+        "<val>1</val> cup flour",
+        "<val>2</val> green peppers, diced",
+        "<val>4</val> celery stalks, diced",
+        "<val>1</val> large onion, diced",
+        "<val>4</val> garlic cloves, minced",
+        "<val>2</val> tablespoons tomato paste",
+        "<val>1</val> quart chicken stock",
+        "<val>1</val> quart water",
+        "<val>1\/2</val> to <val>1</val> pound okra, sliced into discs",
+        "<val>3</val> green onions, chopped",
+        "<val>1\/2</val> cup fresh parsley, chopped",
+        "<h2>Cajun Seasoning</h2>",
+        "<val>1</val> teaspoon black pepper",
+        "<val>1\/2</val> to <val>1</val> teaspoon cayenne pepper",
+        "<val>1</val> teaspoon celery seed",
+        "<val>2</val> Tbsp sweet paprika",
+        "<val>1</val> Tbsp garlic powder",
+        "<val>1</val> Tbsp dried thyme",
+        "<val>1</val> Tbsp dried oregano"
+    ],
+    "cookTime": "PT03H00M",
+    "prepTime": "PT00H20M",
+    "totalTime": "PT3H20M",
+    "recipeYield": "Serves 10-12",
+    "comment": [
+        {
+            "@type": "Comment",
+            "text": "\"Gumbo should be served with Filé powder at the end. I'm surprised it wasn't mentioned.\"",
+            "author": "Dragonfly43",
+            "datePublished": "2020-02-15"
+        },
+        {
+            "@type": "Comment",
+            "text": "\"I make my own gumbo. One up flour and oil and I stir for 45 minutes till it is dark chocolate. I let it sit for a while. Then add 2 stalks celery, 1-2 bell peppers, one big onion and dice them up and put in pot for 3 min. and then add sliced andouille and stir then add 2 cups chicken broth bring to a boil and simmer for an hour.  Oh add spices to the pot before broth. I use cayenne, chili powder, 2 bay leaves, salt, pepper garlic powder. Use the same spices for the chicken let sit while the sausage simmering. Add chicken simmer for two hours. Serve over rice with French bread or biscuits with some green onions. That’s it. Enjoy\"",
+            "author": "Debbie",
+            "datePublished": "2019-05-14"
+        }
+    ],
+    "review": [
+        {
+            "@type": "Review",
+            "reviewBody": "\"Cooked this  for my Louisianan wife and daughter and my daughter's Indian boyfriend and they loved it! A great way to celebrate Mardi Gras!\"",
+            "author": "Simon",
+            "datePublished": "2019-03-04",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": "5"
+            }
+        },
+        {
+            "@type": "Review",
+            "reviewBody": "\"This was definitely a labour of love. The prep wasn’t bad except the roux. It was my first time attempting one. The first one I read the measuring cup wrong and it was like dough. 2nd attempt too much oil- never got thick. And finally my third attempt and 40 minutes of babying it on the stove it turned out decent. I gave up once it looked like coffee with cream.  I wasn’t able to find okra (fresh or frozen). But it turned out just fine without it and my husband didn’t even notice. He said it was better than the gumbo at our local Cajun\\\/New Orleans restaurant and possibly the best thing I’ve ever cooked for him.  My old gumbo recipe is getting thrown out. This is the only gumbo I want to make from now on.\"",
+            "author": "Michelle Johnson",
+            "datePublished": "2018-11-09",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": "5"
+            }
+        },
+        {
+            "@type": "Review",
+            "reviewBody": "\"Fantastic recipe and strong flavours. I made more of a seafood gumbo by adding prawns, crab, redfish and clams and a clam and chicken stock. My roux came out quite doughy and paste like, it wasn't glistening like in the picture, but I don't think I put in enough oil. Also after 5-10 mins of stirring it didn't go much darker than a sand colour. But it was my first time doing it. Thank you for this recipe, it was fun to make and everyone enjoyed eating it.\"",
+            "author": "Mina",
+            "datePublished": "2018-04-07",
+            "reviewRating": {
+                "@type": "Rating",
+                "worstRating": "1",
+                "bestRating": "5",
+                "ratingValue": "5"
+            }
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": 53
+    }
+}

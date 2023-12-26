@@ -1,0 +1,68 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Smoked Chili",
+    "url": "https:\/\/heygrillhey.com\/smokin-hot-chili\/",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/smoked-chili" ],
+    "author": {
+        "@type": "Person",
+        "name": "Suzy"       
+    },
+    "description": "Smoked chili",
+    "recipeCuisine": "chili, tex-mex",
+    "keywords": "beef, beans, smoke",
+    "recipeCategory": [
+        "soup" 
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "While your grill preheats, prepare your meat and vegetables for smoking. Lay a large piece of aluminum foil on a baking sheet. Evenly spread the onions, peppers, and garlic across the foil and drizzle with the olive oil. Set an elevated cooling rack over the vegetables. Gently spread your ground beef into a large patty, about 1/2 inch thick, and set on the cooling rack."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "In a small bowl. combine all of the spices. Sprinkle liberally over both the vegetables and ground beef. Set the baking pan on the grate of your smoker, close the lid and smoke at 225 for about an hour."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Heat a large pot over medium heat. Slowly transfer the vegetables and meat into the pot and stir with a wooden spoon or spatula, breaking up the meat into smaller pieces. Pour in the can of tomatoes, beef broth, and beans."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Reduce the heat to low and simmer for an additional hour. Watch the liquid level and stir often to prevent anything from burning to the bottom. If you like your chili to be thicker, you can add 2 Tablespoons of tomato paste. If you like it thinner, you can add more beef broth."
+        }    
+    ],
+    "recipeIngredient": [
+        "<val>1 1/3</val> lb gound beef (80/20)",
+        "<val>1</val> large sweet onion (diced)",
+        "<val>1</val> red bell pepper (seeded and diced)",
+        "<val>1</val> green bell pepper (seeded and dice), or an equivalent number of jalepenos",
+        "<val>4</val> cloves of garlic, minced",
+        "<val>1</val> Tbsp olive oil",
+        "<val>1</val> 28 oz can diced tomatoes",
+        "<val>2</val> cups beef broth",
+        "<val>1</val> can pinto beans (drained and rinsed)",
+        "<val>1</val> can black beans (drained and rinsed)",
+        "sour cream (as garnish)",
+        "shredded cheddar cheese (as garnish)",
+        "<h2>Spice Mixture</h2>",
+        "<val>2</val> tsp sea salt",
+        "<val>2</val> tsp smoke paprika",
+        "<val>2</val> tsp chili powder",
+        "<val>1</val> black pepper",
+        "<val>1</val> tsp cumin",
+        "<val>1</val> tsp Mexican oregano",
+        "<val>1</val> tsp garlic powder",
+        "<val>1/2</val> tsp cayenne pepper",
+        "<val>1/2</val> tsp crushed red pepper flakes" 
+    ],
+    "cookTime": "PT120M",
+    "prepTime": "PT00H20M",
+    "totalTime": "PT01400M",
+    "recipeYield": "8 servings"    
+}

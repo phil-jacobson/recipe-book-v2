@@ -4,7 +4,7 @@
     "mainEntityOfPage": "True",
     "name": "Banana Bread",
     "url": "https:\/\/www.simplyrecipes.com\/recipes\/banana_bread\/",
-    "image": [ "https:\/\/i1.wp.com\/smittenkitchen.com\/wp-content\/uploads\/\/2020\/03\/sk-ultimate-banana-bread.jpg?fit=1200%2C800&ssl=1" ],
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/banana-bread" ],
     "author": {
         "@type": "Person",
         "name": "Elise Bauer",

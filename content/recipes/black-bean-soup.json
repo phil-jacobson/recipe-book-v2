@@ -1,0 +1,67 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "30 Minute Black Bean Soup",
+    "url": "https:\/\/www.seriouseats.com\/30-minute-black-bean-soup-recipe",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/black-bean-soup" ],
+    "author": {
+        "@type": "Person",
+        "name": "J. Kenji López-Alt"         
+    },
+    "description": "An easy and filling weeknight dinner that comes together quickly with ingredients you already have in your pantry.",
+    "recipeCuisine": "Tex-Mex",
+    "keywords": "black beans, soup, quick, kneji",
+    "recipeCategory": [
+        "Soups and Stews","Soup"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Heat vegetable oil in a large saucepan over medium-high heat until shimmering. Add peppers and onions and cook, stirring frequently, until softened but not browned, about 3 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Add garlic, jalapeño, cumin, and dried chili flakes and cook, stirring constantly until fragrant, about 1 minute."
+        },  
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Add chipotle and adobo sauce (if using) and stir to combine. Add chicken broth, beans and their liquid, and bay leaves. Increase heat to high, and bring to a boil. Reduce to a bare simmer, cover and cook for 15 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Discard the bay leaves. Use a hand blender to roughly puree part of the beans until desired consistency is reached. Alternatively, transfer 2 cups of soup to a blender or food processor and process until smooth (start on low speed and increase to high to prevent blender blow-out). Return to the soup and stir to combine. Season to taste with salt."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Ladle soup into individual serving bowls and serve immediately with cilantro leaves, sour cream, diced avocado, and diced red onion (as desired)."
+        } 
+    ],
+    "recipeIngredient": [
+       "<val>1</val> tbsp vegetable oil",
+        "<val>2</val> green bell peppers, stems and seeds discarded, finely diced (or equivalent ammount of diced jalepenos)",
+        "<val>1</val> jalapeño or serrano pepper, stems and seeds discarded, finely chopped",
+        "<val>1</val> large onion, finely diced",        
+        "<val>2</val> teaspoon ground cumin",
+        "<val>2</val> cloves garlic, minced on a microplane grater",
+        "<val>1/2</val> tsp dried chili flakes",
+        "<val>1</val> chipotle chili packed in adobo, finely chopped, plus <val>1</val> tablespoon adobo sauce from can",
+        "<val>1</val> quart homemade or low-sodium canned chicken broth",
+        "<val>2</val>  15-ounce cans black beans, with liquid",
+        "<val>2</val>  bay leaves",
+        "Kosher salt",
+        "<h2>To server (optional)</h2>",
+        "Roughly chopped cilantro leaves",
+        "Mexican-style sour cream",
+        "Diced avocado",
+        "Diced red onion"
+    ],
+    "cookTime": "PT00H30M",
+    "prepTime": "PT00H15M",
+    "totalTime": "PT0H45M"
+}

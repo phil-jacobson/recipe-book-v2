@@ -1,0 +1,66 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Chocolate Mug Cake",
+    "url": "https:\/\/iamafoodblog.com\/2-minute-chocolate-mug-cake-recipe\/",
+    "image": ["https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/chocolate-mug-cake"],
+    "author": {
+        "@type": "Person",
+        "name": "Stephanie"        
+    },
+    "description": "Erin recommends this recipe.",
+    "datePublished": "2020-12-06",
+    "dateModified": "2020-12-06",
+    "recipeCuisine": "American",
+    "keywords": "Chocolate, Cake, Dessert, Erin",
+    "recipeCategory": [
+        "Dessert"
+    ],
+    "recipeInstructions":[
+        {
+           "@type":"HowToStep",
+           "text":"In your mug (make sure it holds at least 1.75 cups of liquid), whisk together the milk and oil.",
+           "name":"In your mug (make sure it holds at least 1.75 cups of liquid), whisk together the milk and oil."           
+        },
+        {
+           "@type":"HowToStep",
+           "text":"In a small bowl, whisk together the flour, cocoa powder, sugar, baking powder, and salt.",
+           "name":"In a small bowl, whisk together the flour, cocoa powder, sugar, baking powder, and salt."
+        },
+        {
+           "@type":"HowToStep",
+           "text":"Add the flour mix to the mug and whisk well, making sure there are no lumps.",
+           "name":"Add the flour mix to the mug and whisk well, making sure there are no lumps."           
+        },
+        {
+           "@type":"HowToStep",
+           "text":"Sprinkle on the chocolate.",
+           "name":"Sprinkle on the chocolate."           
+        },
+        {
+           "@type":"HowToStep",
+           "text":"Place on a microwave safe plate and microwave for 1 minute and 10 seconds.",
+           "name":"Place on a microwave safe plate and microwave for 1 minute and 10 seconds."           
+        },
+        {
+           "@type":"HowToStep",
+           "text":"Let cool slightly and enjoy!",
+           "name":"Let cool slightly and enjoy!"           
+        }
+     ],     
+     "recipeIngredient":[
+        "<val>6</val> tbsp milk",
+        "<val>1</val> tbsp oil",
+        "<val>4</val> tbsp flour (1/4 cup)",
+        "<val>2</val> tbsp unsweetened cocoa powder",
+        "<val>2</val> tbsp sugar",
+        "<val>1/4</val> tsp baking powder",
+        "<val>1</val> pinch salt",
+        "<val>1</val> tbsp chocolate chips (or chopped chocolate)"
+     ],
+     "prepTime":"PT1M",
+     "cookTime":"PT1M",
+     "totalTime":"PT2M",
+     "recipeYield": "Makes 1 cake"
+}

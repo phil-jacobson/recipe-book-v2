@@ -1,0 +1,58 @@
+  {
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "url": "https://www.seriouseats.com/recipes/2014/09/the-lazy-cooks-black-beans-easy-recipe.html",
+    "name": "Easy Black Beans",
+    "datePublished": "2014-09-02T08:50:00",
+    "dateModified": "2018-08-30T07:55:41",
+    "description": "Aromatics enhance creamy black beans in this easy and healthy side dish.",
+    "image": [
+      "https://www.seriouseats.com/thmb/ThlOvhgoIkZIyuSj4ctb931-4Gg=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__08__20140827-black-beans-vicky-wasik-4-20c02243a35d4bf299d2dd19d21e3592.jpg"
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.6923076923077",
+      "ratingCount": "13"
+    },
+    "recipeCuisine": "Latin American",
+    "recipeCategory": [
+      "Beans and Pulses",
+      "Soups and Stews",
+      "Sides",
+      "Dairy-Free",
+      "Gluten-Free",
+      "Stovetop",
+      "Vegan",
+      "Vegetarian"
+    ],
+    "recipeYield": "Serves 6 to 8 as a side",
+    "totalTime": "PT02H00M",
+    "recipeIngredient": [
+      "<val>1</val> pound (454g) dried black beans, rinsed and picked over",
+      "<val>8</val> medium cloves garlic, peeled and smashed",
+      "<val>1</val> yellow onion peeled and sliced in half, with enough of the root end intact that the onion doesn't fall apart",
+      "<val>1</val> juicing orange, rinsed and sliced in half",
+      "Kosher salt"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place beans in a large pot or dutch oven and add water until beans are submerged by 3 to 4 inches. Add the garlic and onion, squeeze in orange juice, then add the squeezed orange halves. Cover and place over high heat until water comes to a boil, then uncover pot and reduce heat to a bare simmer. Cook until beans are completely tender and creamy, 1 to 2 hours, stirring occasionally, and adding water if tops of beans become exposed."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove orange and onion halves. Increase heat to medium and simmer, stirring frequently, until reduced to a thick, creamy sauce that clings to the beans, about 10 minutes. Season to taste with salt. Serve over rice or as a side with fresh cilantro and a dash or two of hot sauce."
+      }
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Max Falkowitz",
+      "jobTitle": "Editor Emeritus",
+      "sameAs": [
+        "https://www.twitter.com/maxfalkowitz"
+      ],
+      "description": "Max Falkowitz used to work here. These days, he’s a food and travel writer for The New York Times, Saveur, Food & Wine, New York magazine’s Grub Street, GQ, and elsewhere. He’s also the coauthor of The Dumpling Galaxy Cookbook with Helen You.",
+      "url": "https://www.seriouseats.com/user/profile/mfalk"
+    },
+    "keywords": "bean, black bean, easy, gluten free, healthy, high fiber, latin, low fat"
+  }

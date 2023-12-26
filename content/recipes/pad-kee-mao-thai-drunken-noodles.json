@@ -1,0 +1,118 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Recipe",
+    "name": "Drunken Noodles (Pad Kee Mao)",
+    "url" : "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/",
+    "author": {
+        "@type": "Person",
+        "name": "Nagi | RecipeTin Eats"
+    },
+    "description": "Recipe video above. Spicy Thai Noodles, a popular Thai&nbsp;take-out&nbsp;dish from the streets of Thailand! Make sure you have all ingredients ready to toss into the wok as once you start cooking, things happen quickly! Spice level: moderate to high (it's SUPPOSED to be spicy!)",
+    "datePublished": "2019-06-12T19:30:31+00:00",
+    "image": [
+        "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/drunken-noodles"        
+    ],
+    "recipeYield": "serves 2-3",
+    "prepTime": "PT10M",
+    "cookTime": "PT6M",
+    "totalTime": "PT16M",
+    "recipeIngredient": [
+        "<val>7</val> ounce / 200g   dried rice noodles (wide, Note 1)",
+        "<val>2</val> tbsp oil (peanut, vegetable or canola)",
+        "<val>3</val>  large cloves of garlic (minced)",
+        "<val>2</val>  birds eye chilli or Thai chillies (deseeded, very finely chopped, Note 2)",
+        "<val>1/2</val> onion (sliced)",
+        "<val>7</val> ounce / 200g  chicken thighs (cut into bite size pieces, breast ok too)",
+        "<val>2</val> tsp fish sauce (or soy sauce)",
+        "<val>2</val> green onions (cut into 3cm/2\" pieces)",
+        "<val>1</val> cup Thai or Thai Holy Basil leaves (sub regular basil, Note 3)",
+        "<val>3</val> tbsp oyster sauce",
+        "<val>1.5</val> tbsp light soy sauce (Note 4)",
+        "<val>1 1/2</val> tbsp dark soy sauce (Note 4)",
+        "<val>2</val> tsp sugar",
+        "<val>1</val> tbsp water"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Prepare noodles per packet directions.",
+            "name": "Prepare noodles per packet directions.",
+            "url": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#wprm-recipe-22399-step-0-0"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix Sauce in a small bowl.",
+            "name": "Mix Sauce in a small bowl.",
+            "url": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#wprm-recipe-22399-step-0-1"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Heat oil in wok or large heavy based skillet over high heat.",
+            "name": "Heat oil in wok or large heavy based skillet over high heat.",
+            "url": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#wprm-recipe-22399-step-0-2"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add garlic and chilli and cook for 10 seconds. Don't inhale - the chilli will make you cough!",
+            "name": "Add garlic and chilli and cook for 10 seconds. Don't inhale - the chilli will make you cough!",
+            "url": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#wprm-recipe-22399-step-0-3"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add onion, cook for 1 minute.&nbsp;",
+            "name": "Add onion, cook for 1 minute.&nbsp;",
+            "url": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#wprm-recipe-22399-step-0-4"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add chicken and fish sauce, and fry until cooked, around 2 minutes.",
+            "name": "Add chicken and fish sauce, and fry until cooked, around 2 minutes.",
+            "url": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#wprm-recipe-22399-step-0-5"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add green onion, noodles and sauce and cook for 1 minute until the sauce reduces and coats the noodles.",
+            "name": "Add green onion, noodles and sauce and cook for 1 minute until the sauce reduces and coats the noodles.",
+            "url": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#wprm-recipe-22399-step-0-6"
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove from heat and immediately add basil, toss until just wilted, then serve immediately.",
+            "name": "Remove from heat and immediately add basil, toss until just wilted, then serve immediately.",
+            "url": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#wprm-recipe-22399-step-0-7"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.93",
+        "ratingCount": "105"
+    },
+    "recipeCategory": [
+        "Noodles",
+        "Stir Fries"
+    ],
+    "recipeCuisine": [
+        "Thai"
+    ],
+    "keywords": "drunken noodles, pad kee mao",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "servingSize": "197 g",
+        "calories": "454 kcal",
+        "carbohydrateContent": "58.6 g",
+        "proteinContent": "22.9 g",
+        "fatContent": "14.8 g",
+        "saturatedFatContent": "2.4 g",
+        "cholesterolContent": "79 mg",
+        "sodiumContent": "223 mg",
+        "fiberContent": "1.5 g",
+        "sugarContent": "2.7 g",
+        "unsaturatedFatContent": "12.4 g"
+    },
+    "@id": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#recipe",
+    "isPartOf": {
+        "@id": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#article"
+    },
+    "mainEntityOfPage": "https://www.recipetineats.com/pad-kee-mao-thai-drunken-noodles/#webpage"
+}
+ 

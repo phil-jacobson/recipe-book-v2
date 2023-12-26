@@ -1,0 +1,60 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Brown Butter Cornbread",
+    "url": "https:\/\/www.seriouseats.com\/moist-and-tender-brown-butter-cornbread-recipe",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/corn-bread" ],
+    "author": {
+        "@type": "Person",
+        "name": "J. Kenji Lopez-Alt",
+        "url": "https:\/\/www.seriouseats.com\/j-kenji-lopez-alt-5118720"
+    },
+    "description": "Moist and tender cornbread with lots of corn flavor, a touch of sweetness, and browned butter.",
+    "recipeCuisine": "American",
+    "keywords": "Baking, Corn Meal, Bread, Quick Bread",
+    "recipeCategory": [
+        "Baking",
+        "Bread",
+        "Quick Bread"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Adjust oven rack to center position and preheat oven to 425°F. Place butter in a 10-inch cast iron skillet. Transfer skillet to oven and heat until butter is melted and well browned, 10 to 20 minutes (you can measure your wet and dry ingredients while waiting). Pour browned butter into a heatproof cup or bowl, leaving about 1 tablespoon remaining in skillet."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Combine cornmeal, flour, sugar, salt, baking powder, and baking soda in a large bowl. Add eggs, sour cream, and buttermilk to a second bowl and whisk together. Whisking constantly, slowly drizzle in reserved browned butter. Stir wet ingredients into dry ingredients until just combined."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Mix in the baking soda and salt. Stir in the sugar, beaten egg, and vanilla extract. Mix&nbsp;in the flour."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Swirl the hot skillet to coat all surfaces with melted butter. Spoon batter into skillet, smooth top lightly, then return to oven. Bake until light golden brown on top and a wooden skewer inserted into cornbread comes out with no crumbs, 20 to 25 minutes. Let cool 10 minutes, then serve with extra butter and honey at the table. Leftover cornbread can be stored in a sealed container in the refrigerator for up to 3 days."
+        }    
+    ],
+    "recipeIngredient": [
+        "<val>7</val> tablespoons unsalted butter, plus more for serving",
+        "<val>1</val> cup (about <val>5</val> ounces) fine yellow cornmeal",
+        "<val>1</val> cup (about <val>5</val> ounces) all-purpose flour",
+        "<val>4</val> tablespoons sugar",
+        "<val>1</val> teaspoon kosher salt",
+        "<val>2</val> teaspoons baking powder",
+        "<val>1/4</val> teaspoon baking soda",
+        "<val>2</val> eggs",
+        "<val>6</val> ounces (about <val>3/4</val> cup) sour cream",
+        "<val>4</val> ounces (about <val>1/2</val> cup) cultured buttermilk",
+        "Honey, for serving"
+    ],
+    "cookTime": "PT00H25M",
+    "prepTime": "PT00H10M",
+    "totalTime": "PT050M",
+    "recipeYield": "8 servings"    
+}

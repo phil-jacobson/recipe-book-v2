@@ -4,7 +4,7 @@
     "mainEntityOfPage": "True",
     "name": "Baked Hash Browns",
     "url": "",
-    "image": [ "https:\/\/www.browneyedbaker.com\/wp-content\/uploads\/2018\/03\/hashbrown-casserole-12-754.jpg" ],
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/baked-hash-browns" ],
     "author": {
         "@type": "Person",
         "name": "Julie Engh"         

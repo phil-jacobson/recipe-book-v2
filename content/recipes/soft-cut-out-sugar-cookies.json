@@ -1,0 +1,72 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Soft Cut-Out Sugar Cookies",
+    "url": "https:\/\/sallysbakingaddiction.com\/best-sugar-cookies\/",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/christmas-cookies" ],
+    "author": {
+        "@type": "Person",
+        "name": "Sally"         
+    },
+    "description": "With crisp edges, thick centers, and room for lots of decorating icing, I know you'll love these soft sugar cookies as much as I do. The number of cookies this recipe yields depends on the size of the cookie cutter you use. If you'd like to make dozens of cookies for a large crowd, double the recipe.",
+    "recipeCuisine": "American",
+    "keywords": "sugar cookies, royal icing, Christmas cookies",
+    "recipeCategory": [
+        "dessert", 
+        "cookies"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk the flour, baking powder, and salt together in a medium bowl. Set aside."                    
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl using a hand mixer or a stand mixer fitted with a paddle attachment, beat the butter and sugar together&nbsp;on high speed until completely smooth and creamy, about 2 minutes.&nbsp;Add the egg, vanilla, and almond extract (if using) and beat on high speed until combined, about 1 minute.&nbsp;Scrape down the sides and up the bottom of the bowl and beat again as needed to combine."                    
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add the dry ingredients to the wet ingredients and mix on low until combined. Dough will be relatively soft. If the dough seems too soft and sticky for rolling, add 1 more Tablespoon of flour."                    
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Divide the dough into 2 equal parts. Place each portion onto a piece of lightly floured parchment paper or a lightly floured silicone baking mat. With a lightly floured rolling pin, roll the dough out to about 1/4-inch thickness. Use more flour if the dough seems too sticky. The rolled-out dough can be any shape, as long as it is evenly 1/4-inch thick."                    
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Lightly dust one of the rolled-out doughs with flour. Place a piece of parchment on top. (This prevents sticking.) Place the 2nd rolled-out dough on top. Cover with plastic wrap or aluminum foil, then refrigerate for at least 1-2 hours and up to 2 days."                    
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Once chilled, preheat oven to 350°F (177°C). Line 2-3 large baking sheets with parchment paper or silicone baking mats. Carefully remove the top dough piece from the refrigerator. If it&#8217;s sticking to the bottom, run your hand under it to help remove it&#8211; see me do this in the video above. Using a cookie cutter, cut the dough into shapes. Re-roll the remaining dough and continue cutting until all is used. Repeat with 2nd piece of dough. (Note: It doesn&#8217;t seem like a lot of dough, but you get a lot of cookies from the dough scraps you re-roll.)"                    
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Arrange cookies on baking sheets 3 inches apart. Bake for 11-12 minutes or until lightly browned around the edges. If your oven has hot spots, rotate the baking sheet halfway through bake time. Allow cookies to cool on the baking sheet for 5 minutes then transfer to a wire rack to cool completely before decorating."                    
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Decorate the cooled cookies with royal icing or easy cookie icing. Feel free to tint either icing with gel food coloring. See post above for recommended decorating tools. No need to cover the decorated cookies as you wait for the icing to set. If it&#8217;s helpful, decorate the cookies directly on a baking sheet so you can stick the entire baking sheet in the refrigerator to help speed up the icing setting."                    
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Enjoy cookies right away or wait until the icing sets to serve them. Once the icing has set, these cookies are great for gifting or for sending. Plain or decorated cookies stay soft for about 5 days when covered tightly at room temperature. For longer storage, cover and refrigerate for up to 10 days."                    
+        }
+    ],
+    "recipeIngredient": [
+        "<val>2</val> and <val>1/4</val> cups (<val>281</val>g) all-purpose flour&nbsp;(spoon &amp; leveled), plus more as needed for rolling and work surface",
+        "<val>1/2</val> teaspoon baking powder",
+        "<val>1/4</val> teaspoon salt",
+        "<val>3/4</val> cup (<val>1 1/2</val> sticks or <val>170</val>g) unsalted butter, softened to room temperature",
+        "<val>3/4</val> cup (<val>150</val>g granulated sugar",
+        "<val>1</val> large egg, at room temperature",
+        "<val>2</val> teaspoons pure vanilla extract",
+        "<val>1/4</val> or <val>1/2</val> teaspoon almond extract (optional, but makes the flavor outstanding)",
+        "Royal Icing or Easy Cookie Icing"
+    ],
+    "cookTime": "PT12M",
+    "prepTime": "PT2H",
+    "totalTime": "PT4H",
+    "recipeYield": "24 3-4 inch cookies"
+}

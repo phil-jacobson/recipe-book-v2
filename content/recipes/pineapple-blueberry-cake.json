@@ -1,0 +1,54 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Pineapple Blueberry Cake",
+    "url": "",
+    "image": ["https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/blueberry-cake" ],
+    "author": {
+        "@type": "Person",
+        "name": "Char Jacobson"         
+    },
+    "description": "Pineapple Blueberry Cake",
+    "recipeCuisine": "American",
+    "keywords": "pineapple, blueberrry, jake",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Preheat oven to 350 degrees."  
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Evenly spread pineapple in a greased baking 13x9 innch baking dish."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Carefully spread with pie filling, then sprinkle with dry cake mix."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Drizzle with butter."
+        }        ,
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Bake for 50-60 minutes until the top is browned."
+        }
+    ],
+    "recipeIngredient": [
+       "<val>1</val> 20 ounce can of crushed pineapple, undrained",
+        "<val>1</val> 20 ounce can of blueberrry (or cherry) pie filling." ,
+        "<val>1</val> package of yellow cake mix (regular size)",        
+        "<val>3/4</val> cup butter, melted"
+    ],
+    "cookTime": "PT00H50M",
+    "prepTime": "PT00H05M",
+    "totalTime": "PT0H55M"
+}

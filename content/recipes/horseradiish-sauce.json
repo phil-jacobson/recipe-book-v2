@@ -1,0 +1,36 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Horseradish Sauce",
+    "url": "https:\/\/natashaskitchen.com\/horseradish-sauce-recipe\/",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/horseradish-sauce" ],
+    "author": {
+        "@type": "Person",
+        "name": "Natasha Kravchuk"         
+    },
+    "description": "Horseradish Sauce",
+    "recipeCuisine": "American",
+    "keywords": "horseradish, sauce",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "In a small mixing bowl, stir all of the ingredients together. Serve right away or cover and refrigerate for about 2 weeks."
+        }
+    ],
+    "recipeIngredient": [
+       "<val>1/2</val> cup sour cream",
+        "<val>2</val> tablespoons prepared horseradish, drained",
+        "<val>2</val> tablespoons mayonnaise",        
+        "<val>1/4</val> tsp salt",
+        "<val>1/8</val> tsp black pepper",
+        "<val>1</val> tbsp chives, finely chopped"        
+    ],
+    "cookTime": "PT00H00M",
+    "prepTime": "PT00H5M",
+    "totalTime": "PT0H05M"
+}

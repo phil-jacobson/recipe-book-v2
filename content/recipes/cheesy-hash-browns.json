@@ -1,0 +1,60 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Cheesy Hash Browns",
+    "url": "",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/cheesy-hash-browns" ],
+    "author": {
+        "@type": "Person",
+        "name": "Julie Engh"         
+    },
+    "description": "Cheesy Hash Browns",
+    "recipeCuisine": "American",
+    "keywords": "potatoes, baked, jules",
+    "recipeCategory": [
+        
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Preheat oven to 350 degrees."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Combine the ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "In a separate bowl, combine the topping ingredients."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Spray 8x8 pan (disposable aluminum works well), then spread potatoes mixture, and cover with topping."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 5,
+            "text": "Bake for 1 and 1/2 to 2 hours (increase to 3 hours for a double batch)."
+        }
+    ],
+    "recipeIngredient": [
+        "<val>1</val> package of Simply Potatoes hash browns",
+        "<val>1/4</val> cup melted butter",
+        "<val>1</val> can cream of chicken soup",        
+        "<val>1</val> 8oz package of sour cream",
+        "<val>2</val> Cups shredded cheese",
+        "Dehydrated onion to taste",
+        "Salt and Pepper to taste",
+        "<h2>Topping</h2>",
+        "<val>1 1/2</val> cups corn flakes",
+        "<val>2</val> tbsp melted butter"
+    ],
+    "cookTime": "PT00H45M",
+    "prepTime": "PT00H15M",
+    "totalTime": "PT1H15M"
+}

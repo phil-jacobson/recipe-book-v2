@@ -1,0 +1,52 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "White Bean Soup with Garlic and Parsley",
+    "url": "https:\/\/food52.com\/recipes\/51809-marcella-hazan-s-white-bean-soup-with-garlic-and-parsley",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/white-bean-soup" ],
+    "author": {
+        "@type": "Person",
+        "name": "Marcella Hazan"         
+    },
+    "description": "How to cook a soulful bean soup in 10 minutes? As Marcella Hazan used to tell her students, &quot;What you leave out is just as important as what you put in.&quot; Adapted slightly from The Essentials of Classic Italian Cooking (Knopf, 1992).",
+    "recipeCuisine": "American",
+    "keywords": "Bean, Soup, Stew, 5 Ingredients or Fewer, Gluten-Free, Make Ahead, One-Pot Wonders, Vegan, Vegetarian, Fall, Winter, Garlic, Parsley",
+    "recipeCategory": [
+        "soup"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "position": 1,
+            "text": "Put the oil and chopped garlic in a soup pot and turn on the heat to medium. Cook the garlic, stirring it, until is becomes colored a very pale gold."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 2,
+            "text": "Add the drained cooked or canned beans, a pinch of salt, and a few grindings of pepper. Cover and simmer gently for 5 to 6 minutes."
+        },
+        {
+            "@type": "HowToStep",
+            "position": 3,
+            "text": "Take about 1/2 cup of beans from the pot and puree them through a food mill back into the pot, together with all the broth. Alternately, use a blender, loosening with a bit of the broth. Simmer for another 5 to 6 minutes, taste, and correct for salt and pepper. Swirl in the chopped parsley, and turn off the heat. "
+        },
+        {
+            "@type": "HowToStep",
+            "position": 4,
+            "text": "Ladle over the grilled bread slices into individual soup bowls."
+        }
+    ],
+    "recipeIngredient": [
+       "<val>1/2</val> cup extra virgin olive oil",
+        "<val>1</val> tsp chopped garlic or more, to taste",
+        "<val>6</val> cups cooked cannellini or other white beans—either canned or cooked from <val>2</val> cups dried (recommended)",                
+        "<val>1</val> cup water, or <val>1/3</val> cup beef broth dilluted with <val>2/3</val> cup water",
+        "<val>2</val> tbsp chopped fresh parsley",        
+        "Salt and Pepper to taste",
+        "Optional:  Thick grilled or toasted slices of crusty bread"       
+    ],
+    "cookTime": "PT00h20M",
+    "prepTime": "PT00H5M",
+    "totalTime": "PT0H25M"
+}

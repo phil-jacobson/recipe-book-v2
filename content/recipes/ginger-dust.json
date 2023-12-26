@@ -1,0 +1,43 @@
+{
+    "@context": "http:\/\/schema.org",
+    "@type": "Recipe",
+    "mainEntityOfPage": "True",
+    "name": "Ginger Dust",
+    "url": "https:\/\/www.simplyrecipes.com\/recipes\/chicken_gumbo_with_andouille_sausage\/",
+    "image": [ "https://res.cloudinary.com/dqe01vujx/w_250,q_auto/recipe-images/cajun-seasoning" ],
+    "author": {
+        "@type": "Person",
+        "name": "Hank Shaw",
+        "url": "http:\/\/honest-food.net"
+    },
+    "description": "A classic spicy cajun seasoning mix ",
+    "recipeCuisine": "Cajun, Creole, New Orleans",
+    "keywords": "Cajun, Seasoning",
+    "recipeCategory": [
+        "Cajun",        
+        "Seasoning"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Combine ingredients.\u00a0Add all of the ingredients to a small jar and stir (or shake) until evenly combined."
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Store.\u00a0 Use immediately or cover and store for up to 1 year."
+        }
+    ],
+    "recipeIngredient": [
+        "<val>1</val> teaspoon black pepper",
+        "<val>1\/2</val> to <val>1</val> teaspoon cayenne pepper",
+        "<val>1</val> teaspoon celery seed",
+        "<val>2</val> Tbsp sweet paprika",
+        "<val>1</val> Tbsp garlic powder",
+        "<val>1</val> Tbsp dried thyme",
+        "<val>1</val> Tbsp dried oregano"
+    ],
+    "cookTime": "PT00H00M",
+    "prepTime": "PT00H10M",
+    "totalTime": "PT00H10M",
+    "recipeYield": "Makes ?"
+}
